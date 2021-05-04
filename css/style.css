@@ -1,0 +1,23 @@
+img{
+      height: 450px;
+   
+}
+
+.wrapper{
+    
+background-color: rgb(199, 157, 118);
+width: 1px;
+height: 1px;
+
+}
+
+
+h1{
+    color: brown;
+    display:none ;
+ }
+
+
+ .col-md-4{
+     display:none ;
+ }
